@@ -6,7 +6,7 @@ theme = "hugo-theme-shell"
 [Params]
     [Params.Terminal]
     schema = "monokai"
-    userName = "Roozbeh"
+    userName = "Faateme"
     pcName = "PC"
     workDir = "Home"
     profile = "profile.txt"
@@ -15,15 +15,13 @@ theme = "hugo-theme-shell"
     commandDelay = 35
 
     description = """
-    Hi, I am Fateme!
+    Hi, I am Fateme Aliakbari!
     Nice to meet you.
     """
 
     [Params.Tree]
     use = true
     files = [
-        ["C/C++", "https://www.example.com/"],
-        ["Python", "https://www.example.com/"],
-        ["Go", "/works/go.md"],
-        ["Hugo", "/works/hugo.md"]
+        ["Git", "https://github.com/fateme-alk/Karyar-Git-Course"],
+        ["Python", "https://github.com/fateme-alk/Python-Programming],
     ]
