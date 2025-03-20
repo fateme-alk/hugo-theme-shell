@@ -1,11 +1,23 @@
 baseURL = "https://hugo-theme-shell.netlify.app/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "fateme-alk shell"
 theme = "hugo-theme-shell"
 
 [Params]
     [Params.Terminal]
     schema = "monokai"
+    userName = "Roozbeh"
+    pcName = "PC"
+    workDir = "Home"
+    profile = "profile.txt"
+
+    stdoutDelay = 6
+    commandDelay = 35
+
+    description = """
+    Hi, I am Fateme!
+    Nice to meet you.
+    """
 
     [Params.Tree]
     use = true
